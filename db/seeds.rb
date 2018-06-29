@@ -45,14 +45,4 @@ posts["posts"].each do |post|
 end
 puts "#{Post.count} posts have been created"
 
-# Comments
-# puts 'Creating comments...'
-# file = "db/comments.yml"
-# comments = YAML.load(open(file).read)
 
-# comments["comments"].each do |comment|
-#   c = Comment.new(comment)
-#   c.post = p
-#   c.save!
-# end
-# puts "#{Comment.count} comments have been created"
