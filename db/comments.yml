@@ -1,0 +1,11 @@
+comments:
+  - content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+    post_id: 1
+  - content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    post_id: 2
+  - content: "Lorem ipsum"
+    post_id: 3
+  - content: "Lorem ipsum dolor sit amet"
+    post_id: 4
+  - content: "Lorem ipsum dolor sit amet, consectetur"
+    post_id: 5

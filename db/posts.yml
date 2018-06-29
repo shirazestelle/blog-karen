@@ -1,0 +1,47 @@
+posts:
+  - title: "My trip to India"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Travel"
+    user_id: 1
+    photo: "https://images.unsplash.com/photo-1504244648668-89000185ea9b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4b4b2fddc3fd10ba4e0316c1cffcad5c&auto=format&fit=crop&w=1353&q=80"
+  - title: "Budapest nightlife"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Travel"
+    user_id: 2
+    photo: "https://images.unsplash.com/photo-1505567959736-13553ce10cb4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9bad0082e6591c9e8f6d5742b16aeb50&auto=format&fit=crop&w=1350&q=80"
+  - title: "3 days in Iceland"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Travel"
+    user_id: 3
+    photo: "https://images.unsplash.com/photo-1504829857797-ddff29c27927?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c2e70f6a4c9f5b41ffe8475386113811&auto=format&fit=crop&w=1350&q=80"
+  - title: "Little guide of Paris"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Travel"
+    user_id: 4
+    photo: "https://images.unsplash.com/photo-1519526528934-2d2213986004?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5f0527a3cb4bcd2779d91c2eecb00fb2&auto=format&fit=crop&w=967&q=80"
+  - title: "Best restaurant in Austria"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Food"
+    user_id: 5
+    photo: "http://res.cloudinary.com/dif6rqidm//image/upload/v1527079381/masfjhb7x9k1rzdhvwnj.jpg"
+  - title: "How to shop in Paris"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Style"
+    user_id: 1
+    photo: "https://images.unsplash.com/photo-1481437156560-3205f6a55735?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3237a0f8fe29f2eab42aacda40b01069&auto=format&fit=crop&w=1371&q=80"
+  - title: "The perfect date"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Love"
+    user_id: 2
+    photo: "https://images.unsplash.com/photo-1488117382278-329ccc22eecb?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3fb7581d29d513c893d4897a0a87578f&auto=format&fit=crop&w=1324&q=80"
+  - title: "Interrail 2018"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Travel"
+    user_id: 3
+    photo: "https://images.unsplash.com/16/unsplash_5263607dd1bfc_2.jpg?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5c606dee50bbacda308790f544fc8dd9&auto=format&fit=crop&w=1350&q=80"
+  - title: "Best bar in Prague"
+    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    category: "Nightlife"
+    user_id: 4
+    photo: "https://images.unsplash.com/photo-1495750930178-5a02be8e1b4e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d6699eefecbb682294c6621e138d49f0&auto=format&fit=crop&w=1350&q=80"
+

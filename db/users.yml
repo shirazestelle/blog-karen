@@ -1,0 +1,11 @@
+users:
+  - email: "alan.turing@42.com"
+    password: "enigma"
+  - email: "baptiste.boucher@gmail.com"
+    password: "123456"
+  - email: "nico.sch@gmail.com"
+    password: "123456"
+  - email: "roquette@gmail.com"
+    password: "123456"
+  - email: "shiraz.estelle@gmail.com"
+    password: "123456"
