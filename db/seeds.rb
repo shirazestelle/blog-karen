@@ -39,6 +39,7 @@ posts["posts"].each do |post|
     post["comments"].each do |comment|
     c = Comment.new(comment)
     c.post = p
+    c.user = User.first
     c.save!
     end
   end
