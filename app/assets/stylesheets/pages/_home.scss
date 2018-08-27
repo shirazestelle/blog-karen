@@ -1,1 +1,17 @@
 // Specific CSS for your home-page
+.banner_home {
+  color: white;
+  text-align: center;
+  height: 90vh;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  .banner-content {
+    width: 50%;
+    margin: auto;
+  }
+}

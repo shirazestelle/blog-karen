@@ -4,7 +4,7 @@
   <% end %>
 
   <!-- Right Navigation -->
-  <div class="navbar-wagon-right hidden-xs hidden-sm">
+  <div class="navbar-wagon-right hidden-xs hidden-sm navbar-flex">
     <% if user_signed_in? %>
 
       <div class="burger burger-fixed-top">
@@ -14,7 +14,7 @@
           </div>
         <% end %>
 
-        <div class="burger-item">
+        <div class="burger-item navbar-item">
           <div class="dropdown">
             <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
             <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
@@ -25,7 +25,7 @@
         </div>
       </div>
 
-    
+
     <% else %>
       <!-- Login link (when logged out) -->
 
@@ -36,21 +36,24 @@
           </div>
         <% end %>
 
-        <div class="burger-item">
+        <div class="burger-item navbar-item">
           <div class="dropdown">
             <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
             <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
-              <li><%= link_to "Dashboard", dashboard_path %></li>
               <li><%= link_to t(".sign_in", default: "Login"), new_user_session_path, class: "navbar-wagon-item navbar-wagon-link" %></li>
             </ul>
           </div>
         </div>
       </div>
     <% end %>
+
   </div>
 
+  <div class="title-home navbar-item">
+    <h2>Karen's Blog</h2>
+  </div>
     <!-- Links when logged in -->
-  <div class="navbar-right">
+  <div class="navbar-right navbar-item">
     <%= link_to "Contact", "#", class: "navbar-wagon-item navbar-wagon-link" %>
     <%= link_to "About", "#", class: "navbar-wagon-item navbar-wagon-link" %>
     <%= link_to "Posts", "#", class: "navbar-wagon-item navbar-wagon-link" %>
